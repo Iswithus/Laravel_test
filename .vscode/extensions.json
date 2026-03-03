@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "bmewburn.vscode-intelephense-client",
+        "onecentlin.laravel-blade",
+        "esbenp.prettier-vscode",
+        "EditorConfig.EditorConfig"
+    ]
+}
